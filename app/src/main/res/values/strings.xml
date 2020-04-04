@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">POI - Pay Out India</string>
+
+
+    <string name="login_hint_mobile_no">Mobile</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_btn_login">Login</string>
+    <string name="login_login_via">Or Login via Social Networks</string>
+</resources>
